@@ -194,6 +194,7 @@ strong{
 }
 
 .third-section{
+    align-items: center;
     display: flex;
     flex-direction: column;
     gap: 2rem;
@@ -219,6 +220,8 @@ strong{
 }
 
 footer{
+    align-items: center;
+
     padding: 4rem;
     display: flex;
     flex-direction: column;
